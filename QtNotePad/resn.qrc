@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>new icom/wc.png</file>
+        <file>new icom/nundo.png</file>
+        <file>new icom/nsaveas.png</file>
+        <file>new icom/nsave.png</file>
+        <file>new icom/nredo.png</file>
+        <file>new icom/nprint.png</file>
+        <file>new icom/npaste.png</file>
+        <file>new icom/nopen.png</file>
+        <file>new icom/nnew.png</file>
+        <file>new icom/nifo.png</file>
+        <file>new icom/nfontcolor.png</file>
+        <file>new icom/nfont.png</file>
+        <file>new icom/ncut.png</file>
+        <file>new icom/ncopy.png</file>
+        <file>new icom/nbc.png</file>
+        <file>new icom/nbullets.png</file>
+        <file>new icom/nallcenter.png</file>
+        <file>new icom/nallrigth.png</file>
+        <file>new icom/nleftall.png</file>
+        <file>new icom/nimg.png</file>
+    </qresource>
+</RCC>

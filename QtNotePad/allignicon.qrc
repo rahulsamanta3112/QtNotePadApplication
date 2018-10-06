@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>new icom/nallcenter.png</file>
+        <file>new icom/nallrigth.png</file>
+        <file>new icom/nleftall.png</file>
+    </qresource>
+</RCC>
